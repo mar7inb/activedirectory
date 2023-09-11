@@ -28,58 +28,17 @@ NAT: Network Address Translation. Technique used to allow multiple devices on a 
 
 FQDN: Fully Qualified Domain Name. This identifies a location on the internet or local network. In this project I used "mydomain.com" to keep it simple.
 
-## Simplified process on how to build 
-
-Note: This is a very simplified process, make sure to research if you don't know how to do any of the steps. 
-
-1. Download all tools (oracle vm, server 2019 iso, windows 10 iso)
-   
-   links:
-   
-   https://www.virtualbox.org/wiki/Downloads - download extension pack as well
-   
-   https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
-   
-   https://www.microsoft.com/en-us/software-download/windows10 - you will need to convert this to ISO so please google how to do that, very simple process.
-
-   IMPORTANT: Make sure to save all of these files to your desktop. 
-
-2. Creat a VM called DC with Oracle Virtual Box
-
-   To be Continued...
+## Project: 
 
 
-## Powershell script used to add users 
+![oraclevm1](https://github.com/mar7inb/activedirectory/assets/90795866/511e7259-6498-44e5-a745-b0e7714aeaf8)
 
 
-$PASSWORD_FOR_USERS   = "Password1"
-$USER_FIRST_LAST_LIST = Get-Content .\names.txt
+![oraclevm2](https://github.com/mar7inb/activedirectory/assets/90795866/8e4b3967-4094-4df7-a9b1-6a67700ce485)
 
 
-$password = ConvertTo-SecureString $PASSWORD_FOR_USERS -AsPlainText -Force
-New-ADOrganizationalUnit -Name _USERS -ProtectedFromAccidentalDeletion $false
 
 
-foreach ($n in $USER_FIRST_LAST_LIST) {
-    $first = $n.Split(" ")[0].ToLower()
-    $last = $n.Split(" ")[1].ToLower()
-    $username = "$($first.Substring(0,1))$($last)".ToLower()
-    Write-Host "Creating user: $($username)" -BackgroundColor Black -ForegroundColor Cyan
-    
-    
-    New-AdUser -AccountPassword $password `
-               -GivenName $first `
-               -Surname $last `
-               -DisplayName $username `
-               -Name $username `
-               -EmployeeID $username `
-               -PasswordNeverExpires $true `
-               -Path "ou=_USERS,$(([ADSI]`"").distinguishedName)" `
-               -Enabled $true
-}
-
-
-Script Explanation: 
 
 
 
