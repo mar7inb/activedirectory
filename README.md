@@ -95,7 +95,8 @@ The user_first_last_list variable will grab the users from . \names.txt and put 
 Then it will convert it into a string and lastly loop through the foreach until all users from the .\names.txt have been created. 
 
 
-[powershell-users](https://github.com/mar7inb/activedirectory/assets/90795866/e9804aa3-b1a4-4034-bdb2-7743b7cbdca1)
+![powershell-users](https://github.com/mar7inb/activedirectory/assets/90795866/3f4607a1-4ef1-4886-93fb-372a11239ad4)
+
 
 
 
