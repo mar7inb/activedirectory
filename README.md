@@ -13,3 +13,10 @@ NIC: Network Interface Card. This is a hardware component that allows a computer
 DC: Domain Control. This is responsible for user authentication, access control, and management of network resources. 
 
 DHCP: Dynamic Host Configuration Protocol. This is used to automatically assign IP addresses and simplifies network administration by eliminating the need for manual IP address assignments, allowing devices to obtain their network settings dynamically when they connect to the network. This protocol is used in home and business networks to efficiently connect phones, computers and printers. 
+
+RAS: Remote Access Server. This enables secure access to resources within a private network from external location/s.
+
+NAT: Network Address Translation. Technique used to allow multiple devices on a local network to share a public IP address in order to connect to the internet. This also helps by hiding local network structures from external sources. 
+
+FQDN: Fully Qualified Domain Name. This identifies a location on the internet or local network. In this project we used "mydomain.com".
+
