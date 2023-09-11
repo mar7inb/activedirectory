@@ -31,10 +31,22 @@ FQDN: Fully Qualified Domain Name. This identifies a location on the internet or
 ## Project: 
 
 
+Created both virtual machines and added their respective ISO:
+
+
 ![oraclevm1](https://github.com/mar7inb/activedirectory/assets/90795866/511e7259-6498-44e5-a745-b0e7714aeaf8)
 
 
 ![oraclevm2](https://github.com/mar7inb/activedirectory/assets/90795866/8e4b3967-4094-4df7-a9b1-6a67700ce485)
+
+
+Set up IP addressing 
+
+![ipaddressing1](https://github.com/mar7inb/activedirectory/assets/90795866/286a2883-c7bc-4ecb-9165-8377b25c170b)
+
+
+
+
 
 
 
