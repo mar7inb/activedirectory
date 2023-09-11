@@ -56,6 +56,39 @@ Installed Active Directory Domain Services
 ![ad2](https://github.com/mar7inb/activedirectory/assets/90795866/84bc6c17-cea8-4be6-8fca-c1928318f8e7)
 
 
+Created a Domain Admin
+
+
+![domainadmin](https://github.com/mar7inb/activedirectory/assets/90795866/3554cb0a-d14d-4cb5-b076-99a872aa1236)
+
+
+Created Routing and Remote Access
+
+
+![routing](https://github.com/mar7inb/activedirectory/assets/90795866/f6e93365-9109-4117-91e5-38ac3b5c9a21)
+
+
+Installed NAT which will allow internal clients to connect to the internet using one public IP address:
+
+
+![nat](https://github.com/mar7inb/activedirectory/assets/90795866/91051481-bb65-4954-b006-b9c7b7668ce0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
