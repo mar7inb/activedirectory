@@ -31,7 +31,9 @@ FQDN: Fully Qualified Domain Name. This identifies a location on the internet or
 ## Simplified process on how to build 
 
 1. Download all tools (oracle vm, server 2019 iso, windows 10 iso)
+   
    links:
+   
    https://www.virtualbox.org/wiki/Downloads - download extension pack as well
    
    https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
