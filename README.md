@@ -40,9 +40,13 @@ Created both virtual machines and added their respective ISO:
 ![oraclevm2](https://github.com/mar7inb/activedirectory/assets/90795866/8e4b3967-4094-4df7-a9b1-6a67700ce485)
 
 
-Set up IP addressing 
+Set up IP addressing:
 
 ![ipaddressing1](https://github.com/mar7inb/activedirectory/assets/90795866/286a2883-c7bc-4ecb-9165-8377b25c170b)
+
+
+![ipaddressing2](https://github.com/mar7inb/activedirectory/assets/90795866/6eeb2af9-5841-4443-9c22-da95d4dcb9ab)
+
 
 
 
