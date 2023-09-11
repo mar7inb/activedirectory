@@ -9,7 +9,9 @@ In this project I built an Active Directory Lab using VirtualBox. I then used a 
 ## Tools used in this project
 
 Oracle VirtualBox
+
 Server 2019 ISO
+
 Windows 10 ISO 
 
 ## Glossary
