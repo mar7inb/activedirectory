@@ -6,6 +6,12 @@
 
 In this project I built an Active Directory Lab using VirtualBox. I then used a Powershell script to add over 1k users. 
 
+## Tools used in this project
+
+Oracle VirtualBox
+Server 2019 ISO
+Windows 10 ISO 
+
 ## Glossary
 
 NIC: Network Interface Card. This is a hardware component that allows a computer/device to connect to a network such as a LAN (Local Area Network) or internet. 
