@@ -26,7 +26,7 @@ RAS: Remote Access Server. This enables secure access to resources within a priv
 
 NAT: Network Address Translation. Technique used to allow multiple devices on a local network to share a public IP address in order to connect to the internet. This also helps by hiding local network structures from external sources. 
 
-FQDN: Fully Qualified Domain Name. This identifies a location on the internet or local network. In this project we used "mydomain.com".
+FQDN: Fully Qualified Domain Name. This identifies a location on the internet or local network. In this project I used "mydomain.com" to keep in simple.
 
 
 
