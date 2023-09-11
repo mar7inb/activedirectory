@@ -74,6 +74,39 @@ Installed NAT which will allow internal clients to connect to the internet using
 ![nat](https://github.com/mar7inb/activedirectory/assets/90795866/91051481-bb65-4954-b006-b9c7b7668ce0)
 
 
+Installed DHCP server on DC which will allow our windows 10 clients to get an IP address that will let them browse the internet:
+
+
+![dhcp](https://github.com/mar7inb/activedirectory/assets/90795866/1df08a99-f1be-4a4b-989e-fbc3071a3982)
+
+
+Added 1k + users using Powershell ISE 
+
+
+script explanation:
+
+
+The password_for_users variable will give the users "password1" as a temporary password. 
+
+
+The user_first_last_list variable will grab the users from . \names.txt and put it into an array. 
+
+
+Then it will convert it into a string and lastly loop through the foreach until all users from the .\names.txt have been created. 
+
+
+[powershell-users](https://github.com/mar7inb/activedirectory/assets/90795866/e9804aa3-b1a4-4034-bdb2-7743b7cbdca1)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
