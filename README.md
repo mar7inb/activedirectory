@@ -26,9 +26,11 @@ RAS: Remote Access Server. This enables secure access to resources within a priv
 
 NAT: Network Address Translation. Technique used to allow multiple devices on a local network to share a public IP address in order to connect to the internet. This also helps by hiding local network structures from external sources. 
 
-FQDN: Fully Qualified Domain Name. This identifies a location on the internet or local network. In this project I used "mydomain.com" to keep in simple.
+FQDN: Fully Qualified Domain Name. This identifies a location on the internet or local network. In this project I used "mydomain.com" to keep it simple.
 
 ## Simplified process on how to build 
+
+Note: This is a very simplified process, make sure to research if you don't know how to do any of the steps. 
 
 1. Download all tools (oracle vm, server 2019 iso, windows 10 iso)
    
@@ -38,8 +40,10 @@ FQDN: Fully Qualified Domain Name. This identifies a location on the internet or
    
    https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
    
-   https://www.microsoft.com/en-us/software-download/windows10 - you will need to convert this to ISO so please google how to do that, very simple process. 
+   https://www.microsoft.com/en-us/software-download/windows10 - you will need to convert this to ISO so please google how to do that, very simple process.
 
-3. 
+   IMPORTANT: Make sure to save all of these files to your desktop. 
+
+2. Creat a VM called DC with Oracle Virtual 
 
 
