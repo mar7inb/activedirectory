@@ -99,6 +99,23 @@ Then it will convert it into a string and lastly loop through the foreach until 
 
 
 
+Opened CLIENT1 VM and configured a user: 
+
+
+![userconfig](https://github.com/mar7inb/activedirectory/assets/90795866/fb7c841d-330e-444e-b943-ad3c477565b7)
+
+
+We now have a lease from the client computer. When we created this client computer and joined it to the network it reached out to the dhcp server automatically and requested an address, the dhcp server then gave it an address and now we have this lease:
+
+
+![dhcp2](https://github.com/mar7inb/activedirectory/assets/90795866/15e6f8e2-c3c9-41c6-906c-fa16fda38bbe)
+
+
+## CONCLUSION
+
+
+
+
 
 
 
