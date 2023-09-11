@@ -40,12 +40,20 @@ Created both virtual machines and added their respective ISO:
 ![oraclevm2](https://github.com/mar7inb/activedirectory/assets/90795866/8e4b3967-4094-4df7-a9b1-6a67700ce485)
 
 
-Set up IP addressing:
+Identified internal network and set up IP addressing:
 
 ![ipaddressing1](https://github.com/mar7inb/activedirectory/assets/90795866/286a2883-c7bc-4ecb-9165-8377b25c170b)
 
 
 ![ipaddressing2](https://github.com/mar7inb/activedirectory/assets/90795866/6eeb2af9-5841-4443-9c22-da95d4dcb9ab)
+
+
+Installed Active Directory Domain Services
+
+![ad1](https://github.com/mar7inb/activedirectory/assets/90795866/648c4bfc-a091-4bbb-8750-9b22ddc2b0f2)
+
+
+![ad2](https://github.com/mar7inb/activedirectory/assets/90795866/84bc6c17-cea8-4be6-8fca-c1928318f8e7)
 
 
 
