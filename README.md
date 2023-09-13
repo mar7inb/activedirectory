@@ -111,10 +111,18 @@ We now have a lease from the client computer. When we created this client comput
 ![dhcp2](https://github.com/mar7inb/activedirectory/assets/90795866/15e6f8e2-c3c9-41c6-906c-fa16fda38bbe)
 
 
-## CONCLUSION
+## Conclusion
 
 
 Client connects to the Domain Controller, the DC is NATING it/properly forwarding out to the internet and then it comes back with a reply. 
+
+
+A more simple approach to what Active Directory is, it's an organized digital address book for a company, school, and/or organization. It keeps track of everyone who works or studies there, what they can do within the computer network and where can they go (what sites they can visit and can't visit). It also helps by making sure only the right people have access to the right things (this is called authorization or access control.) on the system (files, printers, programs) while keeping unauthorized users out. We can think of active directory like a "digital bouncer". 
+
+
+On another note - Imagine a bad actor getting through the company's, school, and/or organization's digital bouncer. Well, let's just this bad actor will be able to access the assets within. 
+
+
 
 
 
