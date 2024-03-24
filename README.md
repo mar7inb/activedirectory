@@ -120,7 +120,7 @@ Client connects to the Domain Controller, the DC is NATING it/properly forwardin
 A more simple approach to what Active Directory is, it's an organized digital address book for a company, school, and/or organization. It keeps track of everyone who works or studies there, what they can do within the computer network and where they can go (sites they can visit and can't visit). It also helps by making sure only the right people have access to the right things (this is called authorization or access control.) on the system (files, printers, programs) while keeping unauthorized users out. We can think of active directory like a "digital bouncer". 
 
 
-On another note - Imagine a bad actor getting through the company's, school, and/or organization's digital bouncer. Well, let's just this bad actor will gain access to the organizations assets. 
+From a cybersecurity perspective, consider a malicious actor bypassing the "digital bouncer". Once inside, this actor could potentially access the organizations assets. 
 
 
 
